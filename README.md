@@ -1,5 +1,5 @@
 # Panolens.js
-
+# 一个比较完整的 基于three.js 的全景方案
 [![NPM package][npm]][npm-url]
 [![License][license]][license-url]
 [![Bundle Size][bundle-size]][bundle-size-url]
